@@ -7,8 +7,8 @@
 ---
 
 ## 📊 GitHub Stats
-![Moses's GitHub stats](https://github-readme-stats.vercel.app/api?username=molutalo&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=molutalo&layout=compact&theme=radical)
+![Moses's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mowzey123&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mowzey123&layout=compact&theme=radical)
 
 ---
 
@@ -21,14 +21,17 @@ I’m founder of **Molusys** — a platform to explore **AI-driven business solu
 ---
 
 ## 🔧 Core Skills & Tech Stack
-**API & Integration:**  
-![REST](https://img.shields.io/badge/REST-339933?style=flat&logo=restfulapi) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql) ![SOAP](https://img.shields.io/badge/SOAP-007396?style=flat)
+**Languages & APIs:**  
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript) ![REST](https://img.shields.io/badge/REST-339933?style=flat&logo=restfulapi) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql)
+
+**Microservices & Messaging:**  
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=flat) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka)
+
+**Databases & Caching:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch)
 
 **Cloud & DevOps:**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions)
-
-**Programming & Data:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql)  
 
 **Security & Compliance:**  
 ![OAuth2](https://img.shields.io/badge/OAuth2-000000?style=flat) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat) ![IAM](https://img.shields.io/badge/IAM-0078D4?style=flat)
@@ -57,11 +60,11 @@ I’m founder of **Molusys** — a platform to explore **AI-driven business solu
 - Building cloud-native platforms that combine **fintech, cloud automation, and AI**.  
 
 **AI-enabled Cattle Farm**  
-- Developing **predictive analytics and monitoring systems** for livestock health, feed optimization, and yield improvement.  
+- Developing **predictive analytics and monitoring systems** for livestock health, feed optimization, and yield improvement.
 
 **Selected Projects:**  
-- [Molusys Dashboard](https://github.com/molusys/dashboard) – Platform for enterprise API monitoring.  
-- [Molusys Users Management](https://github.com/molusys/usersmanagement) – Cloud microservices for user workflows.  
+- [Molusys Dashboard](https://github.com/molusys/dashboard) – Enterprise API monitoring platform.  
+- [Molusys Users Management](https://github.com/molusys/usersmanagement) – Microservices for user workflows.  
 - [AI Farm Analytics](https://github.com/molusys/ai-farm) – Predictive AI for farm operations.  
 
 ---
