@@ -62,10 +62,6 @@ I’m founder of **Molusys** — a platform to explore **AI-driven business solu
 **AI-enabled Cattle Farm**  
 - Developing **predictive analytics and monitoring systems** for livestock health, feed optimization, and yield improvement.
 
-**Selected Projects:**  
-- [Molusys Dashboard](https://github.com/molusys/dashboard) – Enterprise API monitoring platform.  
-- [Molusys Users Management](https://github.com/molusys/usersmanagement) – Microservices for user workflows.  
-- [AI Farm Analytics](https://github.com/molusys/ai-farm) – Predictive AI for farm operations.  
 
 ---
 
